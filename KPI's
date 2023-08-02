@@ -1,0 +1,7 @@
+So we have got the instagram dataset to do the analysis. We have used MySQL workbench as it is easy to use and simpler database.
+ We had given some tables which consists of users, photos, likes, comments, etc. And on that basis we have understand the insights of social media users. So first of all we have check all the tables and values, so that it will be easy while analyzing the dataset. Later after doing the analysis, we got to know:
+•	Which type of hashtag is in trending, so that we can suggest more users same thing to follow the trend.
+•	Which are the users, using instagram for longer period of time.
+•	We have checked if the users are are actively posting or not, and what can we do to get them engaged over instagram. 
+•	We have also arranged a contest to check which photo get more likes, so that more uses should get involved in this.
+•	We have also check if there and fake/dummy profiles. Because there lots of scams happens on such platforms.
